@@ -1,0 +1,22 @@
+
+body {
+    display: flex;
+    justify-content: center;
+}
+#tablero {
+    width: 50vh;
+    height: 50vh;
+    border-collapse: collapse;
+}
+.cuadro {
+    width: 5vh;
+    height: 5vh;
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 5vh;
+    font-weight: bold;
+    line-height: 5vh;
+}
+
+
